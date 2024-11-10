@@ -1,3 +1,4 @@
+{"computers run a thing, a thing that takes to a thing"}
 - 👋 Hi, I’m @rukundowilson
 - 👀 I’m interested in data science and cybersecurity
 - 🌱 I’m currently learning react/node.js/express/
