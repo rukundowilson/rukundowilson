@@ -27,8 +27,8 @@ This quirky truth fuels my curiosity and dedication to exploring how technology 
 🌟 My GitHub Stats
 
 
-
-🎉 A Fun GIF
+noo
+![Fun GIF](https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif)
 
 
 
