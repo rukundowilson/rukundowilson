@@ -2,8 +2,9 @@ Hi there, I'm Wilson Rukundo! 👋
 
 Welcome to my GitHub profile! I'm passionate about leveraging technology to solve problems and create impactful solutions.
 
-![hippo](https://media.giphy.com/media/OLPQ6z2hlHmwFc4Hso/giphy.gif)
-⚡ Fun Fact: Software development isn’t just about writing code; it’s all about debugging. 😅
+![hippo](https://media.giphy.com/media/OLPQ6z2hlHmwFc4Hso/giphy.gif).
+
+⚡Fact: Software development isn’t just about writing code; it’s all about debugging. 
 
 
 🖥️ About Me
