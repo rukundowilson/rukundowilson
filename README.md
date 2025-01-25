@@ -2,6 +2,10 @@ Hi there, I'm Wilson Rukundo! 👋
 
 Welcome to my GitHub profile! I'm passionate about leveraging technology to solve problems and create impactful solutions.
 
+![hippo](https://media.giphy.com/media/OLPQ6z2hlHmwFc4Hso/giphy.gif)
+⚡ Fun Fact: Software development isn’t just about writing code; it’s all about debugging. 😅
+
+
 🖥️ About Me
 
 👀 Interests: Data Science & Cybersecurity
@@ -9,10 +13,6 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to solv
 🌱 Currently Learning: Cybersecurity & Ethical Hacking
 
 💼 Open to Collaborate: I'm always looking to join forces on technical projects.
-
-😄 Pronouns: Him/His
-
-⚡ Fun Fact: Software development isn’t just about writing code; it’s all about debugging. 😅
 
 📫 Reach Me: rukundowilson5@gmail.com
 
@@ -24,17 +24,25 @@ This quirky truth fuels my curiosity and dedication to exploring how technology 
 
 🛠️ Skills & Tools
 
-🌟 My GitHub Stats
+Programming & Scripting
 
+Python 🐍
 
-noo
-![Fun GIF](https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif)
+Bash/Unix Shell 🐧
 
+Technologies & Frameworks
 
+Machine Learning (Pandas, NumPy, scikit-learn)
 
-💡 Let's Connect!
+Web Security Tools
 
-Feel free to connect, collaborate, or simply drop a message. Let’s build something amazing together!
+Cybersecurity
+
+Penetration Testing & Ethical Hacking
+
+Risk Analysis & Threat Mitigation
+-----------------------------------
+EOF
 
 
 
