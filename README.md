@@ -18,36 +18,23 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to solv
 
 🚀 What Drives Me
 
-"Computers run a thing, a thing that takes to a thing." This quirky truth fuels my curiosity and dedication to exploring how technology connects the dots in today's world.
+"Computers run a thing, a thing that takes to a thing."
+
+This quirky truth fuels my curiosity and dedication to exploring how technology connects the dots in today's world.
 
 🛠️ Skills & Tools
 
-Programming & Scripting
-
-Python 🐍
-
-Bash/Unix Shell 🐧
-
-Technologies & Frameworks
-
-Machine Learning (Pandas, NumPy, scikit-learn)
-
-Web Security Tools
-
-Cybersecurity
-
-Penetration Testing & Ethical Hacking
-
-Risk Analysis & Threat Mitigation
-
 🌟 My GitHub Stats
 
-![image](https://github.com/user-attachments/assets/10aa4b41-28f8-45c0-978f-75fd0e433c72)
+
+
+🎉 A Fun GIF
+
 
 
 💡 Let's Connect!
 
 Feel free to connect, collaborate, or simply drop a message. Let’s build something amazing together!
 
-rukunowilson5@gmail.com
+
 
