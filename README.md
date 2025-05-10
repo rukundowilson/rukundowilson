@@ -1,6 +1,6 @@
-👋 Hero there!
-👌YOU have visited the right place
-👇keep exproling
+👋 Hero there!.
+👌YOU have visited the right place.
+👇keep exproling.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wilson_willy02) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Lower_Aside8008) 
